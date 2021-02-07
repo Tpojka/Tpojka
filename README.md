@@ -1,4 +1,10 @@
-### Happy New Year!
+<?php
+
+$what = 'Hello';
+$who = 'World';
+
+$format = '%s, %s!';
+echo sprintf($format, $what, $who);
 
 <!--
 **Tpojka/Tpojka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
