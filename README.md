@@ -1,5 +1,3 @@
-<?php
-
 $what = 'Hello';
 $who = 'World';
 
